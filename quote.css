@@ -1,0 +1,23 @@
+
+
+
+p{font-size:80px;text-align:center;background-color:#430f77;color:white;}
+
+body{
+    background-image:url("images/twinkle.jpg");
+}
+
+a{color:white;background-color:gray;}
+
+a:hover{color:red;}
+
+button{
+    background-color:black;
+    color:black;
+    border-width:10px;
+    font-size:25px;
+    padding: 10px 10px;
+    text-align:center;
+    cursor:pointer;
+    border-radius: 12px;
+}
